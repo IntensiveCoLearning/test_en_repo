@@ -86,10 +86,11 @@ Since the registration and check-in for Intensive Co-Learning are conducted via 
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
 <!-- START_COMMIT_TABLE -->
-| Name | 7.06 | 7.07 | 7.08 | 7.09 | 7.10 | 7.11 | 7.12 | 7.13 | 7.14 | 7.15 | 7.16 | 7.17 | 7.18 | 7.19 | 7.20 | 7.21 | 7.22 | 7.23 | 7.24 | 7.25 | 7.26 | 7.27 |
-| ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/test_en_repo/blob/main/SIGNUP_AUTOMATION.md) | | | | | | | | | | | | | | | | | | | | | | |
+| Name | 7.06 | 7.07 | 7.08 | 7.09 | 7.10 | 7.11 | 7.12 | 7.13 | 7.14 | 7.15 | 7.16 | 7.17 | 7.18 | 7.19 | 7.20 | 7.21 | 7.22 | 7.23 | 7.24 | 7.25 | 7.26 | 7.27 | 7.28 |
+| ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/test_en_repo/blob/main/SIGNUP_AUTOMATION.md) | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
