@@ -15,12 +15,12 @@ Target Audience placeholder
 ## Registration Period
 
 - Registration Start Date: 2025-06-29
-- Registration End Date: 2025-07-06
+- Registration End Date: 2025-07-07
 
 ## Study Duration
 
 - Study Start Date: 2025-07-07
-- Study End Date: 2025-07-28
+- Study End Date: 2025-07-29
 
 ## Initiator
 
@@ -31,7 +31,9 @@ Target Audience placeholder
 
 ## Organizations
 
-The organizing entities of the Intensive Co-learning. There can be multiple. 
+  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
+
+
 
 ## Leave Rules
 
@@ -39,7 +41,7 @@ Allowed 2 days leave per week.
 
 ## Community
 
-Telegram：
+Telegram: 
 
 ## Learning Materials / Course Schedule
 
@@ -51,7 +53,9 @@ Rewards for successful check-ins：https://www.notion.so/lxdao/3eab258b4df44c9cb
 
 ## Additional Information
 
-more information
+more information xxxxxx
+
+
 
 ## Registration and Check-In Rules
 
